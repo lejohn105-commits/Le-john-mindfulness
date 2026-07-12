@@ -1,0 +1,8 @@
+# Example key.properties file
+# Copy this file to android/key.properties and fill in your values
+# NEVER commit key.properties to Git!
+
+storePassword=your_keystore_password_here
+keyPassword=your_key_password_here
+keyAlias=mindfulness-key
+storeFile=/path/to/mindfulness-release-key.jks
